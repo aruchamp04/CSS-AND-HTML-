@@ -1,0 +1,52 @@
+<html>
+<head>
+   <div id ="aishu">
+    <ul>
+        <li><a href ="https://about.me/">ABOUT</a></li>
+        <li><a href ="https://www.cvplaza.com/">PERSONAL DETAILS</a></li>
+        <li><a href ="https://www.google.com/">EDUCATION</a></li>
+        <li><a href ="https://www.youtube.com/">INTERNSHIP</a></li>
+        <li><a href ="https://www.youtube.com/">PROJECTS</a></li>
+        <li><a href ="https://www.youtube.com/">SKILLS</a></li></ul></div>
+        
+    
+</head>
+<body>
+    <style>
+        
+        body{
+            background-color: rgb(255, 190, 223);
+            border: 2px solid black;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-position: 200px;
+            background-size:1040px;
+            
+            
+        }
+        #aishu{
+            background-color:rgb(244, 255, 187) ;
+            padding: 1px;
+        }
+        li{
+            padding: 20px;
+            display: inline;
+            transition: all 0.1s linear;
+         }
+         a{
+            text-decoration: none;
+            color:red;
+            font-size: large;
+            font-weight: bold;
+            letter-spacing: 7px;
+            font-family:'Times New Roman', Times, serif
+         }
+         a:hover{
+            background-color: rgb(204, 255, 252);
+            padding: 18px;
+         }
+
+
+    </style>
+</body>
+</html>
